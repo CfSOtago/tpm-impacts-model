@@ -1,6 +1,6 @@
 # CfSOtago note:
 
-We have forked this repo to explore the model. This is *not* the master repo and is *not* managed by the EA. For the offical repo see https://github.com/ElectricityAuthority/tpm-impacts-model
+We have forked this repo to explore the model. This is *not* the master repo and is *not* managed by the EA. For the official repo see https://github.com/ElectricityAuthority/tpm-impacts-model
 
 # Introduction
 
