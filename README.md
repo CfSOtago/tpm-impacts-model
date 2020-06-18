@@ -6,8 +6,8 @@
 
 Model results:
  * [vanilla EA impact model results](results/impact_model_results.html)
- * UoO scenario tests:
-   * 
+ * CfSOtago scenario tests:
+    * 
  
 <hr>
 
