@@ -1,3 +1,7 @@
+# CfSOtago note:
+
+We have forked this repo to explore the model. This is *not* the master repo and is *not* managed by the EA. For the offical repo see https://github.com/ElectricityAuthority/tpm-impacts-model
+
 # Introduction
 
 This repository includes the code for the Authority's TPM impacts model. An earlier Excel version of the model called '2019 Proposal impacts modelling', was originally originally released as part of the [2019 Issues Paper](https://ea.govt.nz/development/work-programme/pricing-cost-allocation/transmission-pricing-review/consultations/). The original Excel version of the model is available via [EMI](https://www.emi.ea.govt.nz/Wholesale/Datasets/_AdditionalInformation/SupportingInformationAndAnalysis/2019/20190723_TPM_2019_IssuesPaper/), along with the data files and vSPD version used to generate the inputs to the model. This version of the model includes further changes made from the February - March 2020 supplementary consultation. The changes from the original model are discussed in the additional [documentation file](documentation/impact_model_documentation.html).
