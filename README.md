@@ -4,13 +4,17 @@
 
 >Any changes we have made can be reviewed via our [commits](https://github.com/CfSOtago/tpm-impacts-model/commits/master)
 
-Model results:
+## Otago users:
+
+Please make a branch to run new scenarios & then create a pull request for review. **Please** make sure the output results has a _new_ filename!
+
+# Model results:
  * [vanilla EA impact model results](results/impact_model_results.html)
  * CfSOtago scenario tests:
     * 
  
+<hr>
 Original text follows
-
 <hr>
 
 # Introduction
